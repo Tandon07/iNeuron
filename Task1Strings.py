@@ -1,5 +1,5 @@
 import logging
-logging.basicConfig(filename="Task1Strings.log",level=logging.INFO)
+logging.basicConfig(filename="Task1Strings.log",level=logging.DEBUG)
 
 class Task1String:
     s = "this is My First Python programming class and i am learNING python string and its function"
