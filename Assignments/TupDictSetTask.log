@@ -1,0 +1,9 @@
+INFO:root:dict_keys(['key1', 234])
+INFO:root:dict_keys(['key1', 234])
+INFO:root:dict_values(['sudh', [23, 45, 656]])
+INFO:root:dict_values(['sudh', [23, 45, 656]])
+INFO:root:dict_items([('key1', 'sudh'), (234, [23, 45, 656])])
+INFO:root:dict_items([('key1', 'sudh'), (234, [23, 45, 656])])
+INFO:root:dict_values(['sudh', [23, 45, 656]])
+INFO:root:dict_values(['sudh', [23, 45, 656]])
+INFO:root:2
