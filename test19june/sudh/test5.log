@@ -1,0 +1,9 @@
+2022-07-17 11:19:57,183 root The num entered by user 10 and 0 INFO
+2022-07-17 11:19:57,183 root we are into func INFO
+2022-07-17 11:19:57,183 root division by zero ERROR
+Traceback (most recent call last):
+  File "C:\Users\tando\PycharmProjects\test19june\sudh\test5.py", line 19, in div
+    divi=a/b
+ZeroDivisionError: division by zero
+2022-07-17 11:21:38,158 root The num entered by user 10 and 5 INFO
+2022-07-17 11:21:38,158 root we are into func INFO

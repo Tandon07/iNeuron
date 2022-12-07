@@ -1,0 +1,14 @@
+INFO:root:This is 1st code for logging
+INFO:root:This is 1st code for logging
+INFO:root:2
+INFO:root:This is 1st code for logging
+WARNING:root:This is a warning
+INFO:root:2
+INFO:root:This is 1st code for logging
+WARNING:root:This is a warning
+ERROR:root:There is an error
+INFO:root:2
+INFO:root:This is 1st code for logging
+WARNING:root:This is a warning
+ERROR:root:There is an error
+INFO:root:2
